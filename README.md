@@ -1,5 +1,7 @@
 # tailscale-forward-auth
 
+Forked  from [kevin-hanselman/tailscale-forward-auth](https://github.com/kevin-hanselman/tailscale-forward-auth)
+
 This is a basic example of how to implement a Tailscale authentication server
 for general use with proxies. It is derived from the [Tailscale nginx-auth
 command](https://github.com/tailscale/tailscale/blob/741ae9956e674177687062b5499a80db83505076/cmd/nginx-auth/README.md),
