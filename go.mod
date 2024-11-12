@@ -1,6 +1,6 @@
 module github.com/kevin-hanselman/tailscale-forward-auth
 
-go 1.23.1
+go 1.23
 
 require tailscale.com v1.76.6
 
